@@ -1,0 +1,5 @@
+[project]
+name = "base"
+version = "0.1.0"
+description = "A local, GitHub-centric operating contract that makes a collection of independent repositories behave like one understandable, verifiably ready workspace for humans and coding agents."
+requires-python = ">=3.10"
