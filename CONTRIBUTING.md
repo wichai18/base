@@ -33,3 +33,4 @@ Notes and usage details for base.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
