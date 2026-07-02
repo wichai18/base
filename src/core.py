@@ -37,3 +37,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # guard against empty input
 # drop an unused branch
+# avoid re-reading the config on every call
